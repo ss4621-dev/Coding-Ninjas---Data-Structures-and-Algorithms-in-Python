@@ -37,28 +37,6 @@ def deleteNode(head, pos) :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Taking Input Using Fast I/O
 def takeInput() :
     head = None
