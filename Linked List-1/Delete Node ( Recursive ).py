@@ -27,34 +27,6 @@ def deleteNodeRec(head, pos) :
      return head
     
     
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def takeInput() :
     head = None
