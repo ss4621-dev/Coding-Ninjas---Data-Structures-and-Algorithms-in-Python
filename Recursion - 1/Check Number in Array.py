@@ -1,5 +1,5 @@
 def checkNumber(arr, x):
-    if x in arr:
+    if x == arr[0]:
         return True
     else:
         return False
